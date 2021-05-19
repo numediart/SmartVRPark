@@ -6,15 +6,18 @@ columns:
   - description:
     links:
     - text: University of Mons (UMONS) - Numediart Institute
-      href: https://web.umons.ac.be/numediart/fr/
+      href: https://web.umons.ac.be/numediart/
       new_window: true
-    - text: IMT Lille-Douai
-      href: https://imt-lille-douai.fr/
+    - text: Multitel Research Center
+      href: https://www.multitel.be/
+      new_window: true
+     - text: Virtual Park
+      href: https://www.virtualpark.eu/research/
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This project is funded by <br/>      
-      [`Interreg France, Wallonie, Vlaanderen`](https://www.interreg-fwvl.eu)
+      Walloon Region, [SPW Recherche Wallonie](https://recherche-technologie.wallonie.be/fr/menu/acteurs-institutionnels/service-public-de-wallonie-services-en-charge-de-la-recherche-et-des-technologies/departement-de-la-recherche-et-du-developpement-technologique/direction-des-programmes-de-recherche/le-programme-win2wal/appel-2020/index.html), Belgium
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
