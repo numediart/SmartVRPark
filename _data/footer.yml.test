@@ -6,13 +6,10 @@ columns:
   - description:
     links:
     - text: University of Mons (UMONS) - Numediart Institute
-      href: https://web.umons.ac.be/numediart/
+      href: https://web.umons.ac.be/numediart/fr/
       new_window: true
-    - text: Multitel Research Center
-      href: https://www.multitel.be/
-      new_window: true
-     - text: Virtual Park
-      href: https://www.virtualpark.eu/research/
+    - text: IMT Lille-Douai
+      href: https://imt-lille-douai.fr/
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
