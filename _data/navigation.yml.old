@@ -6,22 +6,24 @@
   href: /partners/
 - text: Actions
   menu: # Dropdown menu (one level deep only)
-  - text: Action 1 - 3D Data Acquisition
+  - text: Action 1 - Body Tracking
     href: /action1/
-  - text: Action 2 - VR Model & Simulation
+  - text: Action 2 - Eye Tracking
     href: /action2/
-  - text: Action 3 - Eye-tracking Acquisition
+  - text: Action 3 - Computation Framework
     href: /action3/
+  - text: Action 4 - Wireless Communication
+    href: /action4/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Related links" # Title for block of menu items
   - text: University of Mons (UMONS)
-    href: https://web.umons.ac.be/numediart/fr/
-  - text: IMT Lille-Douai
-    href: https://imt-lille-douai.fr/
-  - text: UMONS Project website
-    href: https://web.umons.ac.be/numediart/fr/recherche/projets-phare/transimmersium-interreg/
-  - text: Interreg Project website
-    href: https://www.interreg-fwvl.eu/fr/transimmersium
+    href: https://web.umons.ac.be/numediart/
+  - text: Multitel
+    href: https://www.multitel.be/
+  - text: Virtual Park
+    href: https://www.virtualpark.eu/research/
+  - text: Click' Living Lab
+    href: https://clicklivinglab.org/
     new_window: true
 - text: News
   href: /blog/
