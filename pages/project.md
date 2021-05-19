@@ -21,9 +21,9 @@ Virtual reality parks have been developing recently, with a variety of VR games 
 
 However, conducting this type of collective interactive experience still involves the use of heavy and expensive equipment, such as portable computers (hidden in a backpack) connected to the VR headset, which also means that this equipment has to be constantly recharged between two games. Moreover, the games available for this type of application are limited in number and are owned by large international groups.
 
-At the same time, the involvement of deep learning-based AI in the field of gaming is only just beginning to open up. Applications can be found in the regulation of games, or in the control of artificial entities participating in the game in the same way as human players.
-
 <img align="right" width="200" src="https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_vp.jpg">
+
+At the same time, the involvement of deep learning-based AI in the field of gaming is only just beginning to open up. Applications can be found in the regulation of games, or in the control of artificial entities participating in the game in the same way as human players.
 
 The objective of this project is to develop a full-scale test platform, in the premises of the industrial partner (in a 500m² space not yet used by the public of Virtual Park), in which players will no longer have to wear heavy, rechargeable suits, and which will involve AI both in the design of the game and in its interaction with the users and between the users and the environment.
 Applications of this project could be also found in training or simulation especially in dangerous situations. 
