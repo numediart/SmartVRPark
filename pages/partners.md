@@ -1,6 +1,6 @@
 ---
 title: Partners
-description: Transimmersium partners
+description: SmartVRPark partners
 background: /assets/img/trans_action3_tests1.jpg
 permalink: /partners/
 ---
@@ -8,14 +8,17 @@ permalink: /partners/
 {: .alert .alert-info}
 Project Partners Complementarity:
 
-Transimmersium is an Interreg micro-project of 3 months leaded by the University of Mons (Belgium). The two operators complement each other very well: the IMT Lille-Douai (France) conducts research in Intelligent Transport to model the behavior of "vulnerable users" in dangerous situations. UMONS has unique expertise in "attention analysis in an immersive environment" using 3D models with distractors or a restricted field of vision to simulate age-related problems.
+SmartVRPark is Win2Wal project funded by Walloon Region, [SPW Recherche Wallonie](https://recherche-technologie.wallonie.be/fr/menu/acteurs-institutionnels/service-public-de-wallonie-services-en-charge-de-la-recherche-et-des-technologies/departement-de-la-recherche-et-du-developpement-technologique/direction-des-programmes-de-recherche/le-programme-win2wal/appel-2020/index.html), Belgium which involves 3 resarchers for the leading academic partner [UMONS](https://www.google.com) and 1 researcher for the [MULTITEL Research Center](https://www.multitel.be/) partner. 
 
-![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/trans_partners_expertise.jpg)
-_Transimmersium partners expertise._
+The industrial partner is [Virtual Park](https://www.virtualpark.eu/research/) is the largest VR game park in Europe. 
+
+UMONS researchers will deal with the AI applications for body and eye tracking actions and also with the computational framwork action. MULTITEL researcher will lead the wireless communication action needed for the system to work under the desired conditions. Virtual Park partner provides the VR content, the testing environement and also VR headsets and technologies they use. 
+
+We also thank to the [Click' Creative Living Lab](https://clicklivinglab.org/) for their support in developping and hosting the very first system demonstration. 
 
 ---
 
-![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/trans_partners.jpg)
-_Transimmersium micro-project is funded by Interreg France, Wallonie, Vlaanderen._
+![Project partners](https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_partners.jpg)
+_SmartVRPark project is funded by the Walloon Region, SPW Recherche Wallonie, Belgium._
 
 ---
