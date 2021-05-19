@@ -1,6 +1,6 @@
 # Transimmersium Project webiste
 
-Find the website at this link : https://numediart.github.io/MobFaceNet/ !
+Find the website at this link : https://numediart.github.io/SmartVRPark/ !
 
 # License
 
