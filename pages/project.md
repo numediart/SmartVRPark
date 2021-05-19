@@ -12,7 +12,7 @@ permalink: /
 {: .alert .alert-info}
 Project Context & Goal:
 
-<img align="left" width="250" src="https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_virg_arms.jpg">
+<img align="left" width="200" src="https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_virg_arms.jpg">
 
 The SmartVRPark Project comes at a crucial time for VR applications, a time when we are moving from a heavy personal local system (Local VR) to a partly delocalised system on the Cloud (Cloud VR) with computational capabilities in the headset, very high speed wireless transmission and a very good quality of service that introduces minimum delays or loss of information.
 The project partner is Virtual Park, the biggest European virtual gaming park.
@@ -23,7 +23,7 @@ However, conducting this type of collective interactive experience still involve
 
 At the same time, the involvement of deep learning-based AI in the field of gaming is only just beginning to open up. Applications can be found in the regulation of games, or in the control of artificial entities participating in the game in the same way as human players.
 
-<img align="right" width="250" src="https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_virg_arms.jpg">
+<img align="right" width="200" src="https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_vr.jpg">
 
 The objective of this project is to develop a full-scale test platform, in the premises of the industrial partner (in a 500m² space not yet used by the public of Virtual Park), in which players will no longer have to wear heavy, rechargeable suits, and which will involve AI both in the design of the game and in its interaction with the users and between the users and the environment.
 Applications of this project could be also found in training or simulation especially in dangerous situations. 

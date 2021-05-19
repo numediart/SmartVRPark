@@ -11,7 +11,7 @@ columns:
     - text: Multitel Research Center
       href: https://www.multitel.be/
       new_window: true
-     - text: Virtual Park
+    - text: Virtual Park
       href: https://www.virtualpark.eu/research/
       new_window: true
 
