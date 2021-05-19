@@ -17,7 +17,7 @@ columns:
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This project is funded by <br/>      
-      Walloon Region, [SPW Recherche Wallonie](https://recherche-technologie.wallonie.be/fr/menu/acteurs-institutionnels/service-public-de-wallonie-services-en-charge-de-la-recherche-et-des-technologies/departement-de-la-recherche-et-du-developpement-technologique/direction-des-programmes-de-recherche/le-programme-win2wal/appel-2020/index.html), Belgium
+      Walloon Region, [SPW Recherche Wallonie](https://recherche-technologie.wallonie.be/), Belgium
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
