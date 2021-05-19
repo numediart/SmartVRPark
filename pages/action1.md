@@ -1,6 +1,7 @@
 ---
 title: SmartVRPark - Action 1
 description: Body Tracking
+background: /assets/img/trans_action3_tests1.jpg
 permalink: /action1/
 ---
 
