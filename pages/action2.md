@@ -1,5 +1,5 @@
 ---
-title: Project-Action 2
+title: SmartVRPark - Action 2
 description: Eye Tracking
 background: /assets/img/trans_action3_tests1.jpg
 permalink: /action2/

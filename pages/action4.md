@@ -1,8 +1,8 @@
 ---
-title: Project-Action 2
+title: SmartVRPark - Action 4
 description: Eye Tracking
 background: /assets/img/trans_action3_tests1.jpg
-permalink: /action2/
+permalink: /action4/
 ---
 
 {: .alert .alert-info}
