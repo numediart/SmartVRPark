@@ -10,7 +10,6 @@ Find the website at this link : https://numediart.github.io/SmartVRPark/ !
 
 The initial develoment comes from here : https://peterdesmet.github.io/petridish and the git is here : https://github.com/peterdesmet/petridish
 
-
 ### Configuration
 
 Your site's configuration is controlled by [`_config.yml`](_config.yml). Set at least a title and maybe some social profiles.
