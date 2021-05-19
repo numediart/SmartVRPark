@@ -27,7 +27,7 @@ Applications of this project could be also found in training or simulation espec
 {: .alert .alert-info}
 Project Actions :
 
-![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/smartvr_actions.jpg)
+![Project partners](https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_actions.jpg)
 _SmartVRPark four research actions to achieve the goal._
 
 In this context, the project involves four main actions : 
@@ -38,7 +38,7 @@ In this context, the project involves four main actions :
 
 ---
 
-![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/smartvr_partners.jpg)
+![Project partners](https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_partners.jpg)
 _SmartVRPark project is funded by the Walloon Region, SPW Recherche Wallonie, Belgium._
 
 ---
