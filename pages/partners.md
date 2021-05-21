@@ -1,7 +1,7 @@
 ---
 title: Partners
 description: SmartVRPark partners
-background: /assets/img/trans_action3_tests1.jpg
+background: /assets/img/smartvr_partners_ban.jpg
 permalink: /partners/
 ---
 

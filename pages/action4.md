@@ -1,7 +1,7 @@
 ---
 title: SmartVRPark - Action 4
 description: Wireless Coomunication
-background: /assets/img/trans_action3_tests1.jpg
+background: /assets/img/smartvr_actions_ban.jpg
 permalink: /action4/
 ---
 
