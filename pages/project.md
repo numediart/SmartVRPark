@@ -12,7 +12,7 @@ permalink: /
 {: .alert .alert-info}
 Project Context & Goal:
 
-<img align="float: left" width="200" src="https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_virg_arms.jpg">
+<img align="float: left;" width="200" src="https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_virg_arms.jpg">
 
 The SmartVRPark Project comes at a crucial time for VR applications, a time when we are moving from a heavy personal local system (Local VR) to a partly delocalised system on the Cloud (Cloud VR) with computational capabilities in the headset, very high speed wireless transmission and a very good quality of service that introduces minimum delays or loss of information.
 The project partner is Virtual Park, the biggest European virtual gaming park.
