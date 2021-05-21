@@ -9,7 +9,7 @@ permalink: /
 
 
 
-{: .alert .alert-danger}
+{: .button .btn-danger}
 Project Context & Goal:
 
 ![Multi-user VR interaction](https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_virg_arms.jpg){: .rounded .float-left}{:width="200px"}
