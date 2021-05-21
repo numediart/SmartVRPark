@@ -5,7 +5,7 @@ background: /assets/img/trans_action3_tests1.jpg
 permalink: /action2/
 ---
 
-{: .alert .alert-info}
+{: .alert .alert-danger}
 Eye Tracking :
 
 The objective of this second action is to predict or analyse people gaze to reduce the streaming resolution out of the gazed areas and modify the game difficulty by adding ennemies in gazed (or not gazed areas). 

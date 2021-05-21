@@ -6,7 +6,7 @@ permalink: /action1/
 ---
 
 
-{: .alert .alert-info}
+{: .alert .alert-danger}
 Body Tracking :
 
 In this action, the we intend to track the VR headsets, the other players skeletons and additional objects in the same 3D coordinates to be able to see the other players evolving around with their items. 

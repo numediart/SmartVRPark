@@ -6,7 +6,7 @@ permalink: /action3/
 ---
 
 
-{: .alert .alert-info}
+{: .alert .alert-danger}
 Computation Framework :
 
 During this third action, we intend to manage the computation load between the headset and the cloud/server and their communication wihout introducgin additional lags in the interaction. 
