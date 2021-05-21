@@ -12,23 +12,10 @@ permalink: /
 {: .alert .alert-danger}
 Project Context & Goal:
 
-![Multi-user VR interaction](https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_virg_arms.jpg){: .rounded .float-left}{:height="700px" width="400px"}
+![Multi-user VR interaction](https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_virg_arms.jpg){: .rounded .float-left}{:width="200px"}
 
 The SmartVRPark Project comes at a crucial time for VR applications, a time when we are moving from a heavy personal local system (Local VR) to a partly delocalised system on the Cloud (Cloud VR) with computational capabilities in the headset, very high speed wireless transmission and a very good quality of service that introduces minimum delays or loss of information.
 The project partner is Virtual Park, the biggest European virtual gaming park.
-
-
-
-The image below 
-
-![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=200&fit=crop){: .rounded .float-left}
-
-Tree man. Gathering unto give gathered. Midst they're. After image appear. Fish light fowl had so female subdue his great dry dry, sixth yielding moveth two waters fourth is firmament earth you're yielding every greater grass very day wherein was.
-
-
-
-
-
 
 Virtual reality parks have been developing recently, with a variety of VR games on offer. The most advanced (and the most attractive) games are collaborative, allowing one or more teams of players to compete with robots or with each other, in a virtual space linked to the physical space in which they are actually evolving in strong immersion.   
 
