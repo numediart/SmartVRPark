@@ -2,7 +2,7 @@
 layout: home
 title: SmartVRPark 
 description: Intelligent framework for multi-user virtual reality (VR) applications
-background: /assets/img/trans_action3_tests1.jpg
+background: /assets/img/smartvr_project_ban.jpg
 permalink: /
 ---
 
