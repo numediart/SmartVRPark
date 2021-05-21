@@ -5,7 +5,7 @@ background: /assets/img/smartvr_actions_ban.jpg
 permalink: /action4/
 ---
 
-{: .alert .alert-danger}
+{: .button .btn-danger .btn-lg}
 Wireless Coomunication :
 
 The objective of this action is to optimize WIFI 6 networks to manage up to 20 (10 people with two eyes each) 4K streams for muti-player games with minimal lag. 

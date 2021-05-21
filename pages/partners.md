@@ -1,11 +1,11 @@
 ---
 title: Partners
 description: SmartVRPark partners
-background: /assets/img/smartvr_partners_ban.jpg
+background: /assets/img/smartvr_project_ban.jpg
 permalink: /partners/
 ---
 
-{: .alert .alert-danger}
+{: .button .btn-danger .btn-lg}
 Project Partners Complementarity:
 
 SmartVRPark is Win2Wal project funded by Walloon Region, [SPW Recherche Wallonie](https://recherche-technologie.wallonie.be/fr/menu/acteurs-institutionnels/service-public-de-wallonie-services-en-charge-de-la-recherche-et-des-technologies/departement-de-la-recherche-et-du-developpement-technologique/direction-des-programmes-de-recherche/le-programme-win2wal/appel-2020/index.html), Belgium which involves 3 resarchers for the leading academic partner [UMONS](https://www.google.com) and 1 researcher for the [MULTITEL Research Center](https://www.multitel.be/) partner. 

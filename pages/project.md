@@ -10,7 +10,7 @@ permalink: /
 
 
 {: .button .btn-danger .btn-lg}
- Project Context & Goal:
+Project Context & Goal:
 
 ![Multi-user VR interaction](https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_virg_arms.jpg){: .rounded .float-left}{:width="200px"}
 
@@ -29,7 +29,7 @@ At the same time, the involvement of deep learning-based AI in the field of gami
 The objective of this project is to develop a full-scale test platform, in the premises of the industrial partner (in a 500m² space not yet used by the public of Virtual Park), in which players will no longer have to wear heavy, rechargeable suits, and which will involve AI both in the design of the game and in its interaction with the users and between the users and the environment.
 Applications of this project could be also found in training or simulation especially in dangerous situations. 
 
-{: .alert .alert-danger}
+{: .button .btn-danger .btn-lg}
 Project Actions :
 
 ![Project partners](https://raw.githubusercontent.com/numediart/SmartVRPark/main/assets/img/smartvr_actions.jpg)
