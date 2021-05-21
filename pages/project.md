@@ -22,7 +22,7 @@ The project partner is Virtual Park, the biggest European virtual gaming park.
 
 The image below 
 
-![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=150&h=150&fit=crop){: .rounded .float-left}
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=200&fit=crop){: .rounded .float-left}
 
 Tree man. Gathering unto give gathered. Midst they're. After image appear. Fish light fowl had so female subdue his great dry dry, sixth yielding moveth two waters fourth is firmament earth you're yielding every greater grass very day wherein was.
 
